@@ -1,0 +1,34 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.git-repo-card-container {
+  display: flex;
+  flex-direction: column;
+  height: 250px;
+  width: 200px;
+  border: 1px solid goldenrod;
+  align-items: center;
+  margin: 15px;
+  padding: 20px 30px;
+}
+.repo-avatar {
+  height: 85px;
+  align-self: center;
+}
+.repo-name {
+  color: #e73959;
+  font-size: 22px;
+  margin: 13px 0px;
+}
+.stars-count {
+  color: #1e293b;
+  font-size: 15px;
+  margin: 0;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+}
+.card-icon {
+  height: 18px;
+  margin-right: 10px;
+}

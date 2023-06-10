@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.language-tab-item {
+  padding: 0;
+  margin: 10px 20px;
+}
+.language-btn {
+  padding: 5px 20px;
+  border: none;
+  background-color: transparent;
+  font-weight: 600;
+  outline: none;
+}
+.active {
+  border: 1px solid #0284c7;
+  color: #0284c7;
+  border-radius: 30px;
+  outline: none;
+}

@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.main-bg-heading {
+  font-family: 'Lobster';
+  font-size: 45px;
+  text-align: center;
+  color: black;
+}
+.language-tabs-container {
+  padding: 0px;
+  display: flex;
+  list-style-type: none;
+}
+.git-repos-list-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 75%;
+}
+.failure-container {
+  text-align: center;
+  font-family: 'Lobster';
+  color: #1e293b;
+}
+.failure-image {
+  width: 40%;
+}
